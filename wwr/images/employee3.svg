@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+    <rect width="200" height="200" fill="#dfe9df"></rect>
+    <circle cx="100" cy="75" r="40" fill="#a96f4f"></circle>
+    <path d="M45 180 Q100 110 155 180" fill="#315c72"></path>
+    <text x="100" y="195" text-anchor="middle" font-size="14">EMILY</text>
+</svg>
